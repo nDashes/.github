@@ -1,3 +1,21 @@
 # nDashes
 
-Invite Only Sign-up Coming Soon
+AI based tooling for the modern era.
+
+## Signup Phases
+
+### Alpha - Internal Invite Only
+
+We will be using `ndashes` ourselves and getting it perfect for everyone else.
+
+### Bravo - User Invite Only
+
+We allow a set number of signups and grant a set number of invites to these people.
+
+### Charlie - First-Come First-Serve Signup Batches
+
+We will automatically send invites to people who requested signups.
+
+### Version 1.0.0
+
+We welcome anyone and everyone!
